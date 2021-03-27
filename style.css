@@ -51,7 +51,7 @@ div.nav-links li{
 
 
 
-@media (max-width: 763px){
+@media (max-width: 1000px){
    ::-webkit-scrollbar{
         display:none;
     } 
